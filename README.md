@@ -1,3 +1,3 @@
-# BookRide-SiriKit
+# SiriKit
 
-Use SirKit to order an Uber or Lyft.
+Order an Uber or Lyft w/ Siri.
